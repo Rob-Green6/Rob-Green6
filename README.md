@@ -1,6 +1,6 @@
 ![CER Logo github](https://github.com/Rob-Green6/Rob-Green6/assets/141792831/540bade6-7a04-4fc3-b00f-f1a85dde4db0)
 
-
+This repository contains Univeristy of Idaho Center for Ecohydraulics open source project information.  
 <!--
 **Rob-Green6/Rob-Green6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

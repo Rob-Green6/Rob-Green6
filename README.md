@@ -2,7 +2,9 @@
 
 This repository contains Univeristy of Idaho Center for Ecohydraulics, (CER) open source project information.  The CER group is a graduate education and research program dedicated to studying links between physical processes and aquatic ecosystems.  The environment, water and natural resources have been thematic pillars of the CER group at the University of Idaho.  The CER gropup interacts with other University of Idaho water programs, national, and international partners and clients.
 
-
+![image](https://github.com/Rob-Green6/Rob-Green6/assets/141792831/a92a75cc-bc39-43cb-80ac-0693297d77ee)
+For further information you can reach me at robg@uidaho.edu
+https://www.uidaho.edu/engr/research/cer
 <!--
 **Rob-Green6/Rob-Green6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,6 +6,8 @@ This repository contains Univeristy of Idaho Center for Ecohydraulics, (CER) ope
 For further information you can reach me at robg@uidaho.edu
 
 https://www.uidaho.edu/engr/research/cer
+
+https://www.uidaho.edu/engr/research/cer/faculty/rob-green
 <!--
 **Rob-Green6/Rob-Green6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
